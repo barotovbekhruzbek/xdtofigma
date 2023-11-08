@@ -47,7 +47,7 @@
     },
   } );
   </script>
-  <style >
+  <style>
 @import '@splidejs/splide/dist/css/splide.min.css';
 
 .carusel-title {
