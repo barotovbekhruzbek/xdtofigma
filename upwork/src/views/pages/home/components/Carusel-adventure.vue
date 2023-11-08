@@ -115,7 +115,7 @@ news and articles.</p>
  .box-carusel {
    
     width: 331px;
-    height: 284px;
+    height: 325px;
    background: #fff;
  
    border-radius: 10px;
